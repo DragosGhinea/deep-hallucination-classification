@@ -44,5 +44,5 @@ For the evolution of the CNN model a variety of aspects were taken into account,
 
  The final architecture of CNN ended up looking like this:
  
- ![CNN_architecture](https://github.com/DragosGhinea/deep-hallucination-classification/blob/main/Previews/CNN_architecture.svg)
+ ![CNN_architecture](https://github.com/DragosGhinea/deep-hallucination-classification/blob/main/img/CNN_architecture.svg)
 
